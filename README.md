@@ -19,9 +19,14 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdkcnozZHczdHdiYmNiZ3VqZDByZGFvMThmODBjMDBhNWE5ejNjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4KzpjLvJjJknJ5Xuak/giphy.gif" width="500" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdkcnozZHczdHdiYmNiZ3VqZDByZGFvMThmODBjMDBhNWE5ejNjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4KzpjLvJjJknJ5Xuak/giphy.gif" width="450" height="280"/>
 </div>
 
 ***
 
 ### 👨‍💻About Me :
+I am a Frontend Web Developer from India.
+- <img src="https://img.icons8.com/?size=96&id=1TCX2ww987mj&format=png" width="20">I am working on projects.
+- <img src="https://img.icons8.com/?size=96&id=fS7NyZKyMzc0&format=png" width="20">Learning Full Stack Web Devlopment(MERN).
+- <img src="https://img.icons8.com/?size=160&id=BwDh7K6s3SeW&format=png" width="20"> Creating website is my Dedication.
+- <img src="https://img.icons8.com/?size=160&id=ST8UX0wozRY9&format=png" width="20"> Interested In Business
