@@ -14,35 +14,25 @@
 </div>
 
 <h1>
- Hi,
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ Hi
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
   I'm Sudhanshu Mishra
 </h1>
 
+Learning, coding, and building the future.
 
 
-***
-
-### 👨‍💻About Me :
-I am a Frontend Web Developer.
-- <img src="https://img.icons8.com/?size=96&id=1TCX2ww987mj&format=png" width="20">I am working on projects.
-- <img src="https://img.icons8.com/?size=96&id=fS7NyZKyMzc0&format=png" width="20">Learning Full Stack Web Devlopment(MERN).
-- <img src="https://img.icons8.com/?size=160&id=BwDh7K6s3SeW&format=png" width="20"> Creating website is my Dedication.
-- <img src="https://img.icons8.com/?size=160&id=ST8UX0wozRY9&format=png" width="20"> Interested In Business
+[![](https://visitcount.itsvg.in/api?id=Sudhanshu9000&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ***
-### 💻: Languages and Tools : 
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40 height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />       
-</div>
+### 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
   ---
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sudhanshu9000&theme=dark)](https://git.io/streak-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sudhanshu9000&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sudhanshu9000&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshu9000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
